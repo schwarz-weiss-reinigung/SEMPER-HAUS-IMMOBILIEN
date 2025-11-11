@@ -24,6 +24,11 @@ $anchor_text = "SEMPER HAUS IMMOBILIEN";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!-- Robots & Indexing Tags -->
+<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+    
     <title><?php echo $page_title; ?></title>
     <meta name="description" content="<?php echo $meta_description; ?>">
     <meta name="keywords" content="<?php echo $main_keyword; ?>, Immobilienverkauf Dresden, Haus verkaufen Dresden, Immobilienbewertung">
